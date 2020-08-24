@@ -1,0 +1,230 @@
+S.NO: , name , weapon ,  longevity , killer , married , gender , nobility , battleWinner , isAlive
+2 , Adrack Humble , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 1
+4 , Aenys Frey , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+6 , Aggo , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+8 , Albett , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+10 , Alester Florent , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+12 , Alliser Thorne , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+14 , Alyn Stackspear , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+16 , Ambrode , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+18 , Andrey Dalt , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+20 , Anvil Ryn , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+22 , Areo Hotah , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+24 , Aron Santagar , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+26 , Arson , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+28 , Arya Stark , 1 , 1 , 1 , 0 , 0 , 1 , 1 , 0
+30 , Axell Florent , 1 , 1 , 0 , 1 , 0 , 1 , 0 , 1
+32 , Bannen , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 0
+34 , Barsena , 1 , 1 , 0 , 1 , 0 , 1 , 0 , 0
+36 , Bearded Ben , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+38 , Belaquo , 1 , 1 , 0 , 0 , 1 , 0 , 1 , 0
+40 , Belwas , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 0
+42 , Benedar Belmore , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+44 , Bennet , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+46 , Bhakaz zo Loraq , 0 , 0 , 0 , 0 , 1 , 0 , 0 , 0
+48 , Black Bernarr , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+50 , Blue Bard , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+52 , Boros Blount , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+54 , Brandon Norrey , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+56 , Brown Bernarr , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+58 , Bryen , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+60 , Burton Crakehall , 1 , 1 , 0 , 0 , 0 , 0 , 1 , 1
+62 , Byron , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+64 , Cayn , 1 , 1 , 0 , 1 , 0 , 1 , 0 , 0
+66 , Chataya , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+68 , Chiggen , 1 , 1 , 0 , 0 , 0 , 0 , 1 , 0
+70 , Cleos Frey , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+72 , Cohollo , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+74 , Conn , 1 , 1 , 1 , 0 , 0 , 1 , 1 , 0
+76 , Cotter Pyke , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 1
+78 , Creighton Longbough , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+80 , Daario Naharis , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 0
+82 , Dagon Codd , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 1
+84 , Dalla , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 0
+86 , Dancy , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+88 , Daven Lannister , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+90 , Denys Drumm , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+92 , Desmond Grell , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+94 , Dick Crabb , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+96 , Dobber , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+98 , Donnel Haigh , 1 , 1 , 1 , 0 , 1 , 1 , 0 , 0
+100 , Donnis , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+102 , Doreah , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+104 , Drogo , 1 , 1 , 1 , 1 , 0 , 1 , 1 , 0
+106 , Duram Bar Emmon , 0 , 0 , 0 , 0 , 1 , 0 , 0 , 1
+108 , Ebben , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+110 , Edmure Tully , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 0
+112 , Eggon , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+114 , Elinor Tyrell , 1 , 1 , 1 , 0 , 0 , 0 , 0 , 1
+116 , Emmon Cuy , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+118 , Endehar , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+120 , Eon Hunter , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+122 , Erreck , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+124 , Falia Flowers , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+126 , Flement Brax , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+128 , Fornio , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+130 , Gage , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+132 , Garin (Orphan) , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 1
+134 , Garse Goodbrook , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+136 , Gawen Westerling , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+138 , Gerald Gower , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+140 , Gevin Harlaw , 1 , 1 , 0 , 0 , 1 , 0 , 1 , 1
+142 , Gilly , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+144 , Goady , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+146 , Goghor , 1 , 1 , 0 , 0 , 0 , 0 , 1 , 0
+148 , Grazdan , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+150 , Grazdar zo Galare , 0 , 0 , 0 , 0 , 1 , 0 , 0 , 1
+152 , Greydon Goodbrother , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+154 , Grubbs , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+156 , Guyard Morrigen , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+158 , Gyles Grafton , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+160 , Haggo , 1 , 1 , 1 , 1 , 1 , 0 , 1 , 0
+162 , Haldon , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+164 , Halys Hornwood , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+166 , Harma , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0
+168 , Harrag Sharp , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+170 , Harrion Karstark , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+172 , Harys Haigh , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 0
+174 , Heward , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 0
+176 , Hod , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+178 , Hop-Robin , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+180 , Hoster Tully , 1 , 1 , 1 , 0 , 0 , 1 , 1 , 1
+182 , Hubard Rambton , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+184 , Humfrey Swyft , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+186 , Illyrio Mopatis , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+188 , Irri , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+190 , Jack-Be-Lucky , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+192 , Jalabhar Xho , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+194 , Jared Frey , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+196 , Jason Mallister , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+198 , Jeren , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+200 , Jhezane , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+202 , Jodge , 1 , 1 , 0 , 1 , 1 , 0 , 0 , 0
+204 , Jon Connington , 1 , 1 , 0 , 0 , 1 , 0 , 1 , 0
+206 , Joffrey Baratheon , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+208 , Jorah Mormont , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 1
+210 , Josmyn Peckledon , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+212 , Jothos Slynt , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+214 , Jynessa Blackmont , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+216 , Kennos of Kayce , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+218 , Kevan Lannister , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+220 , Kindly man , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+222 , Kromm , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+224 , Kyra , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+226 , Lancel Lannister , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+228 , Larraq , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+230 , Lennocks , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+232 , Leobald Tallhart , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 1
+234 , Lewis Lanster , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+236 , Little Walder Frey , 0 , 0 , 0 , 0 , 1 , 0 , 0 , 0
+238 , Lorcas , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+240 , Lothar Frey , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+242 , Lucas Codd , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 1
+244 , Luton , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+246 , Lymond Goodbrook , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+248 , Lysa Tully , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+250 , Maege Mormont , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+252 , Mago , 1 , 1 , 0 , 1 , 1 , 0 , 0 , 0
+254 , Mance Rayder , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+256 , Margaery Tyrell , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1
+258 , Mariya Darry , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+260 , Marq Piper , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 1
+262 , Masha Heddle , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 1
+264 , Matrice , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+266 , Mebble , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+268 , Meha , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+270 , Melisandre , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 0
+272 , Meribald , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 0
+274 , Meryn Trant , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+276 , Mirri Maz Duur , 0 , 0 , 0 , 1 , 0 , 1 , 0 , 0
+278 , Monford Velaryon , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+280 , Mord , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+282 , Morna White Mask , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+284 , Morros Slynt , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 1
+286 , Mudge (miller) , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+288 , Murch (Winterfell) , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+290 , Mya Stone , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+292 , Myranda Royce , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+294 , Nage , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+296 , Nestor Royce , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1
+298 , Notch , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+300 , Obara Sand , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+302 , Olenna Redwyne , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+304 , Oppo , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+306 , Osfryd Kettleblack , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+308 , Ossy , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+310 , Owen , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+312 , Parmen Crane , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 1
+314 , Pate (Night's Watch) , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 1
+316 , Paxter Redwyne , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1
+318 , Perwyn Frey , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 1
+320 , Pia , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0
+322 , Porridge , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+324 , Praed , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+326 , Pycelle , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+328 , Qarl Shepherd , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+330 , Qotho , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+332 , Quent , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 0
+334 , Qyburn , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+336 , Ragnor Pyke , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+338 , Ralf Stonehouse , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+340 , Randyll Tarly , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1
+342 , Raymun Darry , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 1
+344 , Red Rolfe , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+346 , Reznak mo Reznak , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+348 , Richard Horpe , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+350 , Rigney , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+352 , Robert Arryn , 1 , 1 , 1 , 0 , 1 , 1 , 0 , 0
+354 , Robin Ryger , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+356 , Roger Hogg , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+358 , Rolfe , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+360 , Rolly Duckfield , 1 , 1 , 0 , 1 , 1 , 0 , 0 , 0
+362 , Ronnel Harclay , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+364 , Rorge , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+366 , Rusty Flowers , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+368 , Ryman Frey , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 1
+370 , Sallor , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 0
+372 , Sansa Stark , 1 , 1 , 1 , 1 , 0 , 1 , 1 , 1
+374 , Sawwood , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+376 , Serra Frey , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+378 , Shagwell , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+380 , Shyra Errol , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+382 , Small Paul , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 0
+384 , Spotted Cat , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+386 , Stalwart Shield , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+388 , Stiv , 1 , 1 , 0 , 1 , 0 , 1 , 0 , 0
+390 , Styr , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+392 , Sylva Santagar , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+394 , Symond Templeton , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+396 , Tallad , 1 , 1 , 1 , 0 , 1 , 0 , 1 , 0
+398 , Terrance Lynderly , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+400 , Theomore Lannister , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+402 , Thoros , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+404 , Tim Tangletongue , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+406 , Tion Frey , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1
+408 , Tom of Sevenstreams , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+410 , Torrhen Karstark , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+412 , Tristifer Botley , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+414 , Tumco Lho , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+416 , Tymor , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+418 , Tytos Blackwood , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+420 , Ulf son of Umar , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+422 , Umar , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0
+424 , Urswyck , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+426 , Varamyr , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0
+428 , Vayon Poole , 1 , 1 , 0 , 0 , 1 , 1 , 1 , 1
+430 , Vyman , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 0
+432 , Walder Rivers , 1 , 1 , 1 , 0 , 0 , 1 , 0 , 0
+434 , Wat (sailor) , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+436 , Wayn (guard) , 1 , 1 , 0 , 0 , 1 , 0 , 1 , 0
+438 , Wendel Manderly , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+440 , Whalen Frey , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+442 , Willam Wells , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+444 , Willit , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0
+446 , Wulfe , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0
+448 , Wylis Manderly , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 1
+450 , Wynton Stout , 1 , 1 , 0 , 0 , 0 , 1 , 1 , 1
+452 , Yellow Dick , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 1
+454 , Yohn Royce , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 1
+456 , Zei , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0
+458 , Torwynd the Tame , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 1

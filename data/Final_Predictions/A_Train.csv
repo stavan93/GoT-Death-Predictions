@@ -1,0 +1,460 @@
+S.NO: , name , weapon ,  longevity , killer , married , gender , nobility , battleWinner 
+1, Addam Marbrand ,0,0,1,1,1,1,0
+2, Aegon Targaryen ,0,0,0,0,0,1,0
+3, Aemon Costayne ,0,0,0,0,1,0,0
+4, Aemon Targaryen (son of Maekar I) ,0,0,0,0,1,0,0
+5, Aeron Greyjoy ,0,0,0,0,1,1,0
+6, Aggar ,0,0,0,0,0,1,0
+7, Alan of Rosby ,0,0,0,0,0,1,0
+8, Albar Royce ,0,0,0,0,1,1,0
+9, Alebelly ,0,0,0,1,1,1,0
+10, Alesander Staedmon ,0,0,0,0,1,0,0
+11, Alia of Braavos ,0,0,0,0,1,0,0
+12, Allard Seaworth ,0,0,0,0,1,0,0
+13, Alyn ,0,0,1,0,1,1,0
+14, Alyn Estermont ,0,0,0,0,1,0,0
+15, Alys Karstark ,0,0,1,0,1,1,0
+16, Alyx Frey ,0,0,1,0,1,0,0
+17, Amory Lorch ,0,0,0,1,1,1,0
+18, Andrew Estermont ,0,0,0,0,1,1,0
+19, Andrik ,0,0,0,0,1,1,0
+20, Antario Jast ,0,0,0,0,1,1,0
+21, Anya Waynwood ,0,0,0,0,1,1,0
+22, Ardrian Celtigar ,0,0,0,0,1,1,0
+23, Arianne Martell ,0,0,1,0,0,1,0
+24, Arnolf Karstark ,0,0,0,0,1,1,0
+25, Arron ,0,0,0,0,0,1,0
+26, Arryk (Guard) ,0,0,0,0,0,1,0
+27, Arthor Karstark ,0,0,0,0,1,1,0
+28, Arwyn Oakheart ,0,0,0,0,1,0,0
+29, Arys Oakheart ,0,0,0,0,0,1,0
+30, Aurane Waters ,0,0,0,1,0,1,0
+31, Azzak ,0,0,0,0,1,1,0
+32, Balon Swann ,0,0,0,0,0,1,0
+33, Barbrey Dustin ,0,0,0,0,1,1,0
+34, Barristan Selmy ,0,0,0,0,1,1,0
+35, Barth (brewer) ,0,0,0,0,1,1,0
+36, Bayard Norcross ,0,0,0,0,1,0,0
+37, Becca ,0,0,0,0,0,0,0
+38, Bedwyck ,0,0,0,0,1,1,0
+39, Bella ,0,0,0,0,0,0,0
+40, Bellonara Otherys ,0,0,0,0,1,0,0
+41, Ben ,0,0,1,1,1,1,0
+42, Ben Plumm ,0,0,0,0,1,0,0
+43, Benfred Tallhart ,0,0,0,0,1,0,0
+44, Benjen Stark ,0,0,0,0,1,0,0
+45, Beric Dondarrion ,0,0,0,1,1,1,0
+46, Beth Cassel ,0,0,0,0,0,1,0
+47, Big Boil ,0,0,0,0,1,1,0
+48, Biter ,0,0,0,1,1,1,0
+49, Black Walder Frey ,0,0,0,0,1,1,0
+50, Bloodbeard ,0,0,0,0,0,1,0
+51, Bonifer Hasty ,0,0,0,0,1,0,0
+52, Boremund Harlaw ,0,0,0,0,1,0,0
+53, Borroq ,0,0,0,0,0,1,0
+54, Bran Stark ,0,0,0,0,1,1,0
+55, Brenett ,0,0,0,0,0,0,0
+56, Bronn ,0,0,1,1,1,1,0
+57, Brusco ,0,0,0,0,1,0,0
+58, Bryce Caron ,0,0,0,0,0,1,0
+59, Bryen Farring ,0,0,0,0,1,0,0
+60, Brynden Tully ,0,0,0,0,0,1,0
+61, Butterbumps ,0,0,1,0,0,1,0
+62, Byan Votyris ,0,0,0,0,1,0,0
+63, Cadwyn ,0,0,0,0,1,0,0
+64, Catelyn Tully ,0,0,1,0,1,1,0
+65, Cellador ,0,0,0,1,1,1,0
+66, Cersei Lannister ,0,0,0,0,0,1,0
+67, Chayle ,0,0,0,1,1,1,0
+68, Chett ,0,0,0,1,1,1,0
+69, Chiswyck ,0,0,0,1,1,1,0
+70, Clement Piper ,0,0,0,0,1,0,0
+71, Cley Cerwyn ,0,0,0,0,0,1,0
+72, Clydas ,0,0,0,1,1,1,0
+73, Coldhands ,0,0,0,1,1,1,0
+74, Colen of Greenpools ,0,0,0,1,1,1,0
+75, Conwy ,0,0,0,0,1,1,0
+76, Cortnay Penrose ,0,0,0,1,1,1,0
+77, Cragorn ,0,0,0,0,1,0,0
+78, Cregan Karstark ,0,0,0,0,1,0,0
+79, Cressen ,0,0,0,1,1,1,0
+80, Cutjack ,0,0,0,0,0,0,0
+81, Dacey Mormont ,0,0,0,0,1,1,0
+82, Daenerys Targaryen ,0,0,1,1,1,1,0
+83, Dagmer ,0,0,0,1,1,1,0
+84, Dale Seaworth ,0,0,0,0,1,0,0
+85, Dalla (Dragonstone) ,0,0,0,0,1,0,0
+86, Damon Vypren ,0,0,0,0,1,0,0
+87, Danwell Frey ,0,0,0,0,1,1,0
+88, Daryn Hornwood ,0,0,1,1,1,1,0
+89, Davos Seaworth ,0,0,0,1,1,1,0
+90, Delp ,0,0,0,1,1,0,0
+91, Denys Mallister ,0,0,0,1,0,1,0
+92, Desmond ,0,0,0,1,0,1,0
+93, Devan Seaworth ,0,0,0,0,1,1,0
+94, Dhazzar ,0,0,0,0,0,0,0
+95, Dick Follard ,0,0,0,0,1,1,0
+96, Dirk ,0,0,0,0,1,1,0
+97, Donal Noye ,0,0,0,1,1,1,0
+98, Donnel Drumm ,0,0,0,0,1,0,0
+99, Donnel Hill ,0,0,0,0,0,1,0
+100, Donnel Waynwood ,0,0,0,0,0,0,0
+101, Dontos Hollard ,0,0,0,0,0,1,0
+102, Doran Martell ,0,0,1,1,1,1,0
+103, Dornish Dilly ,0,0,0,0,1,0,0
+104, Drennan ,0,0,0,1,0,0,0
+105, Dudley ,0,0,0,0,1,0,0
+106, Dunstan Drumm ,0,0,0,0,1,0,0
+107, Dykk Harlaw ,0,0,0,0,1,0,0
+108, Easy ,0,0,0,0,1,1,0
+109, Eddard Karstark ,0,0,0,0,1,0,0
+110, Eddison Tollett ,0,0,0,0,1,0,0
+111, Edric Dayne ,0,0,0,0,1,1,0
+112, Edwyn Frey ,0,0,0,0,0,0,0
+113, Elder Brother ,0,0,0,0,0,0,0
+114, Eleyna Westerling ,0,0,0,0,1,0,0
+115, Ellaria Sand ,0,0,0,0,0,1,0
+116, Elyas Willum ,0,0,0,0,1,0,0
+117, Emmon Frey ,0,0,1,0,0,1,0
+118, Emrick ,0,0,0,0,1,0,0
+119, Elwood ,0,0,0,0,1,0,0
+120, Enger ,0,0,0,0,1,1,0
+121, Erik Ironmaker ,0,0,1,0,0,0,0
+122, Eroeh ,0,0,0,0,0,0,0
+123, Erryk (Guard) ,0,0,0,0,0,0,0
+124, Ezzara ,0,0,0,0,0,1,0
+125, Falyse Stokeworth ,0,0,0,0,1,0,0
+126, Fat Walda Frey ,0,0,0,0,1,0,0
+127, Fletcher Will ,0,0,0,0,0,1,0
+128, Forley Prester ,0,0,0,0,0,1,0
+129, Frenken ,0,0,0,1,0,1,0
+130, Frynne ,0,0,0,0,1,0,0
+131, Galazza Galare ,0,0,0,0,0,1,0
+132, Gared ,0,0,0,1,1,1,0
+133, Gariss ,0,0,0,0,1,1,0
+134, Garrett Paege ,0,0,0,0,1,1,0
+135, Garth Greyfeather ,0,0,0,0,0,0,0
+136, Garth of Oldtown ,0,0,0,0,0,0,0
+137, Gelmarr ,0,0,0,0,1,0,0
+138, Genna Lannister ,0,0,0,0,0,1,0
+139, Gerold Dayne ,0,0,0,0,0,1,0
+140, Gerris Drinkwater ,0,0,0,1,1,1,0
+141, Ghael ,0,0,0,0,0,1,0
+142, Gillam ,0,0,0,0,0,0,0
+143, Gilwood Hunter ,0,0,0,0,1,0,0
+144, Glendon Hewett ,0,0,0,0,1,0,0
+145, Godric Borrell ,0,0,0,0,0,1,0
+146, Godwyn ,0,0,0,0,0,0,0
+147, Gormond Goodbrother ,0,0,0,0,1,1,0
+148, Gran Goodbrother ,0,0,0,0,1,0,0
+149, Grazdan mo Eraz ,0,0,0,0,1,0,0
+150, Grazdan zo Galare ,0,0,0,0,1,0,0
+151, Gregor Clegane ,0,0,0,1,1,1,0
+152, Grey Worm ,0,0,0,1,0,1,0
+153, Grigg ,0,0,0,0,1,0,0
+154, Groleo ,0,0,0,0,1,1,0
+155, Grunt ,0,0,0,0,1,1,0
+156, Guncer Sunglass ,0,0,0,0,1,1,0
+157, Gwin Goodbrother ,0,0,0,0,1,0,0
+158, Gyles Farwynd ,0,0,0,0,1,0,0
+159, Gyles Rosby ,0,0,0,0,0,1,0
+160, Gysella Goodbrother ,0,0,0,0,1,0,0
+161, Hairy Hal ,0,0,0,0,0,0,0
+162, Halder ,0,0,0,0,1,1,0
+163, Hali ,0,0,0,0,0,1,0
+164, Hallyne ,0,0,0,1,0,1,0
+165, Hamish the Harper ,0,0,0,1,0,1,0
+166, Harghaz ,0,0,0,0,0,0,0
+167, Harmund Sharp ,0,0,0,1,0,0,0
+168, Harra ,0,0,0,0,0,1,0
+169, Harras Harlaw ,0,0,0,0,1,0,0
+170, Hazzea ,0,0,0,0,0,0,0
+171, Harry Strickland ,0,0,0,0,1,1,0
+172, Harwood Stout ,0,0,0,0,1,1,0
+173, Harys Swyft ,0,0,0,1,1,1,0
+174, Henly (Maester) ,0,0,0,1,1,1,0
+175, High Sparrow ,0,0,0,0,0,0,0
+176, Hobber Redwyne ,0,0,0,0,0,1,0
+177, Hodor ,0,0,0,1,1,1,0
+178, Holly ,0,0,0,0,1,1,0
+179, Horas Redwyne ,0,0,0,1,1,1,0
+180, Hosteen Frey ,0,0,0,1,1,1,0
+181, Hot Pie ,0,0,1,1,0,1,0
+182, Howd Wanderer ,0,0,0,0,0,0,0
+183, Hugh ,0,0,0,1,1,1,0
+184, Hullen ,0,0,0,0,1,1,0
+185, Husband ,0,0,0,1,0,1,0
+186, Iggo ,0,0,0,0,1,1,0
+187, Ilyn Payne ,0,0,0,0,1,1,0
+188, Iron Emmett ,0,0,0,0,0,1,0
+189, Ithoke ,0,0,0,0,1,0,0
+190, Jack Bulwer ,0,0,0,0,1,1,0
+191, Jacks ,0,0,0,0,1,1,0
+192, Jaime Lannister ,0,0,0,1,0,1,0
+193, Janna Tyrell ,0,0,0,0,1,0,0
+194, Jaqen H'ghar ,0,0,0,0,1,1,0
+195, Jaremy Rykker ,0,0,0,1,0,1,0
+196, Jarman Buckwell ,0,0,0,0,1,1,0
+197, Jate ,0,0,0,0,1,0,0
+198, Jeor Mormont ,0,0,0,0,1,1,0
+199, Jeyne Poole ,0,0,0,0,0,1,0
+200, Jhaqo ,0,0,0,1,1,0,0
+201, Jhiqui ,0,0,0,1,0,1,0
+202, Jocelyn Swyft ,0,0,1,1,0,1,0
+203, Jojen Reed ,0,0,0,0,1,1,0
+204, Jon Bettley ,0,0,0,0,1,0,0
+205, Jon Fossoway ,0,0,1,0,1,1,0
+206, Jon Umber (Greatjon) ,0,0,1,0,1,1,0
+207, Jon Umber (Smalljon) ,0,0,1,0,1,1,0
+208, Jonos Bracken ,0,0,0,0,1,1,0
+209, Jory Cassel ,0,0,1,1,1,0,0
+210, Joseth ,0,0,0,0,0,1,0
+211, Joss ,0,0,0,0,1,0,0
+212, Josua Willum ,0,0,0,0,1,0,0
+213, Joyeuse Erenford ,0,0,0,0,1,0,0
+214, Jyck ,0,0,0,1,1,1,0
+215, Karyl Vance ,0,0,0,0,0,1,0
+216, Kella ,0,0,0,0,0,0,0
+217, Ketter ,0,0,0,0,0,0,0
+218, Kerwin ,0,0,0,0,1,0,0
+219, Kezmya ,0,0,0,0,0,1,0
+220, Khrazz ,0,0,0,1,0,1,0
+221, Kojja Mo ,0,0,0,0,0,0,0
+222, Kraznys mo Nakloz ,0,0,0,0,0,0,0
+223, Kurleket ,0,0,0,0,1,1,0
+224, Kyle (Banners) ,0,0,0,0,1,1,0
+225, Lady of the Leaves ,0,0,0,0,1,1,0
+226, Lamprey ,0,0,0,0,1,1,0
+227, Lanna (Happy Port) ,0,0,0,0,1,1,0
+228, Larra Blackmont ,0,0,0,0,0,0,0
+229, Leathers ,0,0,0,0,0,1,0
+230, Lem ,0,0,0,1,0,1,0
+231, Lenwood Tawney ,0,0,0,0,1,0,0
+232, Leo Tyrell ,0,0,0,0,1,0,0
+233, Leona Woolfield ,0,0,0,0,1,0,0
+234, Lew ,0,0,0,0,1,1,0
+235, Lewys Lydden ,0,0,0,0,1,0,0
+236, Lharys ,0,0,0,0,0,0,0
+237, Lollys Stokeworth ,0,0,0,0,0,1,0
+238, Loras Tyrell ,0,0,0,0,1,1,0
+239, Lord of Bones ,0,0,0,0,1,1,0
+240, Lorren ,0,0,0,0,1,1,0
+241, Lothor Brune ,0,0,0,0,1,1,0
+242, Lucas Blackwood ,0,0,0,0,0,0,0
+243, Lucias Vypren ,0,0,0,0,1,1,0
+244, Luke of Longtown ,0,0,0,0,1,1,0
+245, Luwin ,0,0,1,1,1,1,0
+246, Lyman Darry ,0,0,0,0,1,0,0
+247, Lymond Lychester ,0,0,0,0,1,0,0
+248, Lyonel ,0,0,1,0,1,1,0
+249, Lysono Maar ,0,0,0,0,1,1,0
+250, Mad Huntsman ,0,0,0,1,0,0,0
+251, Maerie (Goodwife) ,0,0,0,1,0,0,0
+252, Mag Mar Tun Doh Weg ,0,0,0,0,1,0,0
+253, Mallador Locke ,0,0,0,0,1,0,0
+254, Mallor ,0,0,0,0,1,1,0
+255, Mandon Moore ,0,0,0,0,1,1,0
+256, Marei ,0,0,0,0,0,1,0
+257, Marillion ,0,0,1,1,1,1,0
+258, Marissa Frey ,0,0,0,0,1,0,0
+259, Mark Mullendore ,0,0,0,0,1,0,0
+260, Maron Volmark ,0,0,0,0,1,1,0
+261, Martyn Rivers ,0,0,0,0,1,0,0
+262, Marwyn Belmore ,0,0,0,0,1,1,0
+263, Maslyn ,0,0,0,0,0,0,0
+264, Mathos Mallarawan ,0,0,0,0,0,0,0
+265, Matthos Seaworth ,0,0,0,0,1,0,0
+266, Mawney ,0,0,0,0,1,0,0
+267, Medger Cerwyn ,0,0,0,0,1,0,0
+268, Megga Tyrell ,0,0,0,1,1,0,0
+269, Mela ,0,0,1,0,1,1,0
+270, Meliana ,0,0,0,0,0,1,0
+271, Mellei ,0,0,0,0,0,1,0
+272, Meredyth Crane ,0,0,0,0,0,0,0
+273, Merlon Crakehall ,0,0,0,0,1,0,0
+274, Merrett Frey ,0,0,0,0,1,1,0
+275, Mezzara ,0,0,0,0,1,1,0
+276, Miklaz ,0,0,0,0,0,1,0
+277, Missandei ,0,0,0,1,0,1,0
+278, Mollander ,0,0,0,1,0,1,0
+279, Monster ,0,0,0,0,1,1,0
+280, Moqorro ,0,0,0,0,0,1,0
+281, Mordane ,0,0,0,1,0,1,0
+282, Morgarth ,0,0,0,0,1,0,0
+283, Moro ,0,0,0,0,1,1,0
+284, Morrec ,0,0,0,1,0,0,0
+285, Mors Manwoody ,0,0,0,0,1,0,0
+286, Morton Waynwood ,0,0,0,0,0,0,0
+287, Mully ,0,0,1,0,1,1,0
+288, Murch ,1,1,0,0,1,0,0
+289, Mossador ,1,1,0,0,0,0,0
+290, Muttering Bill ,1,1,0,0,1,0,0
+291, Mycah ,1,1,0,1,0,1,0
+292, Myles Manwoody ,1,1,0,0,1,0,0
+293, Myrcella Baratheon ,1,1,0,0,0,1,0
+294, Myrtle ,1,1,0,0,0,0,0
+295, Myles ,1,1,0,1,1,1,1
+296, Narbert ,1,1,0,0,0,1,1
+297, Nolla ,1,1,0,0,0,1,1
+298, Nurse ,1,1,1,0,1,1,1
+299, Nute ,1,1,0,0,0,1,1
+300, Nymeria Sand ,1,1,0,0,0,0,1
+301, Oberyn Martell ,1,1,0,1,1,1,1
+302, Old Henly ,1,1,0,0,1,0,1
+303, Ollo Lophand ,1,1,0,0,1,1,1
+304, Ondrew Locke ,1,1,0,0,1,0,1
+305, Orell ,1,1,0,1,0,0,1
+306, Orton Merryweather ,1,1,0,0,1,1,1
+307, Osha ,1,1,0,1,0,1,1
+308, Osney Kettleblack ,1,1,0,1,1,1,1
+309, Oswell Kettleblack ,1,1,0,0,1,0,1
+310, Ottyn Wythers ,1,1,0,0,0,0,1
+311, Owen Norrey ,1,1,0,0,1,0,1
+312, Palla ,1,1,0,1,0,1,1
+313, Patchface ,1,1,0,1,1,1,1
+314, Pate (Lancewood) ,1,1,0,1,1,1,1
+315, Pate (Old) ,1,1,0,1,1,1,1
+316, Patrek Mallister ,1,1,0,0,1,1,1
+317, Pello ,1,1,0,0,0,0,1
+318, Perros Blackmont ,1,1,0,0,1,0,1
+319, Petyr Baelish ,1,1,1,0,1,1,1
+320, Philip Foote ,1,1,0,0,1,1,1
+321, Podrick Payne ,1,1,0,1,1,1,1
+322, Pono ,1,1,0,0,0,0,1
+323, Porther ,1,1,0,0,1,1,1
+324, Poxy Tym ,1,1,0,0,0,0,1
+325, Prendahl na Ghezn ,1,1,0,0,1,1,1
+326, Pyat Pree ,1,1,0,0,0,1,1
+327, Pyg ,1,1,0,0,1,0,1
+328, Pypar ,1,1,0,0,1,1,1
+329, Qarl the Maid ,1,1,0,0,1,1,1
+330, Qhorin Halfhand ,1,1,0,1,1,1,1
+331, Quaithe ,1,1,0,0,1,1,1
+332, Quellon Humble ,1,1,0,1,1,1,1
+333, Quenten Banefort ,1,1,0,0,1,0,1
+334, Quhuru Mo ,1,1,0,0,1,1,1
+335, Quort ,1,1,0,0,1,0,1
+336, Rafford ,1,1,0,0,1,0,1
+337, Ragwyle ,1,1,0,0,0,0,1
+338, Ralf Kenning ,1,1,0,0,1,1,1
+339, Ralf the Limper ,1,1,0,0,1,1,1
+340, Randa ,1,1,0,0,0,0,1
+341, Rast ,1,1,0,1,0,1,1
+342, Raymar Royce ,1,1,0,0,1,1,1
+343, Raymund Frey ,1,1,0,0,1,0,1
+344, Red Alyn ,1,1,0,0,1,0,1
+345, Reek ,1,1,1,1,0,1,1
+346, Reysen ,1,1,0,0,0,1,1
+347, Rhaegar Frey ,1,1,0,0,1,1,1
+348, Ricasso ,1,1,0,0,1,1,1
+349, Rickard Karstark ,1,1,0,1,1,1,1
+350, Rickon Stark ,1,1,0,0,1,0,1
+351, Robar Royce ,1,1,0,0,1,1,1
+352, Robert Baratheon ,1,1,1,1,1,1,1
+353, Robett Glover ,1,1,0,1,1,1,1
+354, Robin Moreland ,1,1,0,0,1,0,1
+355, Rodrik Cassel ,1,1,0,0,1,1,1
+356, Rodrik Ryswell ,1,1,0,0,0,0,1
+357, Roger Ryswell ,1,1,0,0,1,0,1
+358, Rolder ,1,1,0,0,1,0,1
+359, Rollam Westerling ,1,1,0,0,1,0,1
+360, Rolley ,1,1,0,1,0,0,1
+361, Rolph Spicer ,1,1,0,0,1,0,1
+362, Ronald Storm ,1,1,0,0,1,0,1
+363, Ronnet Connington ,1,1,0,0,1,0,1
+364, Roose Ryswell ,1,1,0,0,1,1,1
+365, Roslin Frey ,1,1,1,0,1,1,1
+366, Rudge ,1,1,0,0,1,0,1
+367, Ryger Rivers ,1,1,0,0,1,0,1
+368, Rupert Brax ,1,1,0,0,1,0,1
+369, Rymolf Stormdrunk ,1,1,0,0,1,0,1
+370, Salladhor Saan ,1,1,0,1,1,1,1
+371, Samwell Tarly ,1,1,0,0,1,1,1
+372, Sawane Botley ,1,1,0,0,1,1,1
+373, Sarella Sand ,1,1,0,0,1,0,1
+374, Satin ,1,1,0,1,1,1,1
+375, Sedgekins ,1,1,0,0,1,0,1
+376, Senelle ,1,1,0,0,0,1,1
+377, Shadrich ,1,1,0,1,1,1,1
+378, Shagga ,1,1,0,1,0,1,1
+379, Sharna ,1,1,0,0,1,0,1
+380, Shirei Frey ,1,1,0,0,1,0,1
+381, Sigfry Stonetree ,1,1,0,0,1,0,1
+382, Skinner ,1,1,0,1,1,1,1
+383, Softfoot ,1,1,0,0,1,0,1
+384, Spare Boot ,1,1,0,0,0,0,1
+385, Spotted Pate of Maidenpool ,1,1,0,0,0,0,1
+386, Squirrel ,1,1,0,1,0,1,1
+387, Steelskin ,1,1,0,0,0,1,1
+388, Stevron Frey ,1,1,0,0,1,1,1
+389, Stone Thumbs ,1,1,0,0,1,0,1
+390, Stygg ,1,1,0,1,1,0,1
+391, Sybassion ,1,1,0,0,0,0,1
+392, Sybelle Glover ,1,1,0,0,0,0,1
+393, Symon Silver Tongue ,1,1,0,0,1,1,1
+394, Symond Frey ,1,1,0,0,1,0,1
+395, Syrio Forel ,1,1,0,0,1,1,1
+396, Tal Toraq ,1,1,0,0,1,0,1
+397, Tanda Stokeworth ,1,1,0,0,1,0,1
+398, Ternesio Terys ,1,1,0,0,1,0,1
+399, The Red Lamb ,1,1,0,0,1,0,1
+400, Theodan Wells ,1,1,0,0,1,0,1
+401, Theon Greyjoy ,1,1,0,1,1,1,1
+402, Thoren Smallwood ,1,1,0,0,1,1,1
+403, Three Toes ,1,1,0,0,1,0,1
+404, Tickler ,1,1,0,1,0,1,1
+405, Timeon ,1,1,0,0,1,1,1
+406, Timon ,1,1,0,0,1,0,1
+407, Tobho Mott ,1,1,0,0,1,1,1
+408, Todric ,1,1,0,1,1,0,1
+409, Tomard ,1,1,0,1,1,1,1
+410, Torrek ,1,1,0,0,0,0,1
+411, Tothmure ,1,1,0,0,1,1,1
+412, Tremond Gargalen ,1,1,0,0,1,1,1
+413, Triston Sunderland ,1,1,0,0,0,0,1
+414, Tumberjon ,1,1,0,0,0,0,1
+415, Tybero Istarion ,1,1,0,0,1,0,1
+416, Tyene Sand ,1,1,0,0,0,0,1
+417, Tyrek Lannister ,1,1,0,0,1,1,1
+418, Tyta Frey ,1,1,0,0,1,0,1
+419, Tytos Brax ,1,1,0,0,1,0,1
+420, Tywin Lannister ,1,1,1,1,1,1,1
+421, Ulf the Ill ,1,1,1,1,1,1,1
+422, Ulwyck Uller ,1,1,0,0,1,0,1
+423, Umfred ,1,1,0,0,1,0,1
+424, Urreg ,1,1,0,0,0,0,1
+425, Utherydes Wayn ,1,1,0,0,1,1,1
+426, Val ,1,1,1,1,1,1,1
+427, Vardis Egen ,1,1,0,0,1,0,1
+428, Varys ,1,1,1,1,1,1,1
+429, Victarion Greyjoy ,1,1,0,0,1,1,1
+430, Vylarr ,1,1,0,0,1,1,1
+431, Waif ,1,1,0,0,1,0,1
+432, Walder Frey ,1,1,0,1,1,1,1
+433, Wallen ,1,1,0,0,1,0,1
+434, Wat (orphan) ,1,1,0,0,1,0,1
+435, Watt ,1,1,0,0,1,0,1
+436, Waymar Royce ,1,1,0,1,1,1,1
+437, Weasel ,1,1,0,1,0,1,1
+438, Weese ,1,1,0,1,1,1,1
+439, Wendello Qar Deeth ,1,1,0,0,0,0,1
+440, Wex Pyke ,1,1,0,0,1,0,1
+441, Wilbert ,1,1,0,1,1,0,1
+442, Will (orphan) ,1,1,0,1,1,0,1
+443, Willem Lannister ,1,1,0,0,1,0,1
+444, Willis Wode ,1,1,0,0,1,0,1
+445, Willow Witch-eye ,1,1,0,0,1,0,1
+446, Woth ,1,1,0,0,0,0,1
+447, Wun Weg Wun Dar Wun ,1,1,0,0,0,0,1
+448, Wyl the Whittler ,1,1,0,0,0,0,1
+449, Wylla Manderly ,1,1,0,0,1,1,1
+450, Wynafryd Manderly ,1,1,0,0,1,0,1
+451, Xaro Xhoan Daxos ,1,1,0,0,1,1,1
+452, Yandry ,1,1,0,1,0,1,1
+453, Ygon Farwynd ,1,1,0,0,1,0,1
+454, Yohn Farwynd ,1,1,0,0,1,0,1
+455, Yoren ,1,1,0,1,1,1,1
+456, Ysilla ,1,1,0,0,1,0,1
+457, Zollo ,1,1,0,0,1,1,1
+458, Yezzan Zo Qaggaz ,1,1,0,0,1,0,1
+459, Talbert Serry ,1,1,0,0,0,0,1

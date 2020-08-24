@@ -1,0 +1,459 @@
+No.,Character Name,Gender,Popularity,Death,Gender1,TFIDF
+1,Aegon Frey (Jinglebell),0,1,1,1,0
+3,Adrack Humble,1,0,1,1,0
+5,Aemon Estermont,0,1,0,1,0
+7,Aenys Frey,0,1,1,0,0
+9,Aethan,0,0,0,1,0
+11,Aggo,0,0,0,1,0.85
+13,Alayaya,0,0,0,0,0.32
+15,Albett,0,0,0,1,0
+17,Alerie Hightower,1,1,0,0,0
+19,Alester Florent,1,1,1,1,0
+21,Alla Tyrell,1,1,0,0,0
+23,Alliser Thorne,0,1,0,1,0
+25,Alyn Ambrose,0,0,0,1,0
+27,Alyn Stackspear,0,0,0,1,0
+29,Alysane Mormont,0,1,0,0,0
+31,Ambrode,0,0,0,1,0
+33,Andar Royce,0,1,0,1,0
+35,Andrey Dalt,1,0,0,1,0
+37,Anguy,1,0,0,1,0.59
+39,Anvil Ryn,0,1,1,1,0
+41,Archibald Yronwood,1,0,0,1,0
+43,Areo Hotah,0,1,0,1,0
+45,Arneld,0,0,0,1,0
+47,Aron Santagar,1,0,1,1,0
+49,Arron Qorgyle,0,0,0,1,0
+51,Arson,1,0,0,1,0.54
+53,Arwyn Frey,0,1,0,0,0
+55,Arya Stark,0,1,0,0,0
+57,Asha Greyjoy,1,1,0,0,0
+59,Axell Florent,1,1,0,1,0
+61,Ballabar,0,0,0,1,0.13
+63,Bannen,1,0,1,1,1.58
+65,Barra,0,1,1,0,0.41
+67,Barsena,0,0,1,0,0.28
+69,Bass,0,0,0,1,0.53
+71,Bearded Ben,0,1,0,1,0
+73,Becca the Baker,1,1,1,0,0
+75,Belaquo,0,0,0,1,0
+77,Bellegere Otherys (courtesan),0,0,0,0,0
+79,Belwas,0,0,0,1,0.09
+81,Ben Bones,0,1,0,1,0
+83,Benedar Belmore,0,0,0,1,0
+85,Benfrey Frey,0,1,1,1,0
+87,Bennet,1,0,1,1,0.28
+89,Bessa (Winterfell),0,0,0,0,0
+91,Bhakaz zo Loraq,1,1,0,1,0
+93,Big Walder Frey,0,1,0,1,0
+95,Black Bernarr,1,1,0,1,0
+97,Blane,0,0,0,1,0.32
+99,Blue Bard,1,0,0,1,0
+101,Borcas,1,0,0,1,0.63
+103,Boros Blount,0,1,0,1,0
+105,Bowen Marsh,0,1,0,1,0
+107,Brandon Norrey,0,1,0,1,0
+109,Brienne of Tarth,1,1,0,0,0
+111,Brown Bernarr,1,0,1,1,0
+113,Bryan Fossoway,1,1,1,1,0
+115,Bryen,0,0,0,1,0.44
+117,Brynden Rivers,1,1,0,1,0
+119,Burton Crakehall,1,0,1,1,0
+121,Byam Flint,1,0,1,1,0
+123,Byron,1,0,0,1,0.56
+125,Caleotte,1,1,0,1,0.63
+127,Cayn,0,0,1,1,0
+129,Cersei Frey,0,1,0,0,0
+131,Chataya,0,0,0,0,0.41
+133,Chella,0,0,0,0,0.6
+135,Chiggen,0,0,1,1,0
+137,Clayton Suggs,1,0,0,1,0
+139,Cleos Frey,0,1,1,1,0
+141,Clubfoot Karl,1,1,1,1,0
+143,Cohollo,1,0,1,1,1.39
+145,Colemon,0,0,0,1,0.13
+147,Conn,1,0,1,1,0.21
+149,Corliss Penny,1,1,0,1,0
+151,Cotter Pyke,0,1,0,1,0
+153,Craster,1,1,1,1,1.05
+155,Creighton Longbough,0,0,0,1,0
+157,Cuger,0,0,0,1,0
+159,Daario Naharis,1,1,0,1,0
+161,Daemon Sand,0,1,0,1,0
+163,Dagon Codd,0,0,1,1,0
+165,Dalbridge,0,0,1,1,0.4
+167,Dalla,0,0,1,0,0.32
+169,Damon Dance-for-Me,1,0,0,1,0
+171,Dancy,0,0,0,0,0
+173,Dareon,0,0,1,1,0.53
+175,Daven Lannister,0,1,0,1,0
+177,Del,0,1,1,1,0.68
+179,Denys Drumm,1,1,0,1,0
+181,Dermot,0,0,0,1,1.2
+183,Desmond Grell,1,0,0,1,0
+185,Deziel Dalt,1,0,0,1,0
+187,Dick Crabb,1,1,1,1,0
+189,Dickon Manwoody,1,1,0,1,0
+191,Dobber,0,0,1,1,0
+193,Donella Hornwood,1,1,1,0,0
+195,Donnel Haigh,0,0,0,1,0
+197,Donnel Locke,0,1,1,1,0
+199,Donnis,0,0,0,1,0
+201,Donyse,0,0,0,0,0
+203,Doreah,0,1,1,0,0.79
+205,Draqaz,0,0,0,1,0
+207,Drogo,0,1,1,1,1.76
+209,Dunsen,0,0,0,1,0.21
+211,Duram Bar Emmon,1,1,0,1,0
+213,Dywen,0,0,0,1,0.22
+215,Ebben,0,0,1,1,0.2
+217,Eddard Stark,0,1,1,1,0
+219,Edmure Tully,0,1,0,1,0
+221,Edric Storm,0,1,0,1,0
+223,Eggon,0,0,0,1,0
+225,Eldred Codd,0,0,0,1,0
+227,Elinor Tyrell,0,1,0,0,0
+229,Elmar Frey,0,1,0,1,0
+231,Emmon Cuy,1,0,1,1,0
+233,Emmond,0,0,0,1,0
+235,Endehar,0,0,0,1,0
+237,Endrew Tarth,1,1,1,1,0
+239,Eon Hunter,1,1,1,1,0
+241,Ermesande Hayford,0,0,0,0,0
+243,Erreck,0,0,0,1,0
+245,Esgred,0,0,0,1,0.19
+247,Falia Flowers,0,1,0,0,0
+249,Farlen,1,0,1,1,2.06
+251,Flement Brax,0,0,0,1,0
+253,Fogo,0,0,1,1,0.47
+255,Fornio,0,0,0,1,0
+257,Frenya,0,0,1,0,0
+259,Gage,0,0,0,1,0.22
+261,Galbart Glover,0,1,0,1,0
+263,Garin (Orphan),1,0,0,1,0
+265,Garlan Tyrell,0,1,0,1,0
+267,Garse Goodbrook,0,0,1,1,0
+269,Garth of Greenaway,1,1,1,1,0
+271,Gawen Westerling,0,0,0,1,0
+273,Gendry,1,1,0,1,0.24
+275,Gerald Gower,0,0,0,1,0
+277,Gerren,0,0,1,1,0
+279,Gevin Harlaw,1,0,1,1,0
+281,Ghost of High Heart,1,1,0,0,0
+283,Gilly,0,1,0,0,1.02
+285,Gladden Wylde,0,0,1,1,0
+287,Goady,0,0,0,1,0
+289,Godry Farring,0,0,0,1,0
+291,Goghor,0,0,0,1,0
+293,Gorold Goodbrother,1,0,0,1,0
+295,Grazdan,0,0,1,1,0.48
+297,Grazdan mo Ullhor,1,1,1,1,0
+299,Grazdar zo Galare,1,1,0,1,0
+301,Grenn,1,1,0,1,0.52
+303,Greydon Goodbrother,1,0,0,1,0
+305,Grisel,0,0,0,0,0
+307,Grubbs,0,0,1,1,0
+309,Gueren,0,0,0,1,0.33
+311,Guyard Morrigen,1,0,1,1,0
+313,Gylbert Farwynd,0,0,0,1,0
+315,Gyles Grafton,1,0,0,1,0
+317,Gynir,0,0,1,1,0.33
+319,Haggo,1,0,1,1,1.41
+321,Hake,0,0,1,1,0.14
+323,Haldon,0,0,0,1,0.09
+325,Hallis Mollen,1,0,0,1,0
+327,Halys Hornwood,1,1,1,1,0
+329,Hareth (Mole's Town),0,0,0,1,0
+331,Harma,0,0,1,0,0.32
+333,Harmune,0,0,0,1,0.16
+335,Harrag Sharp,0,0,1,1,0
+337,Harwood Fell,0,1,1,1,0
+339,Harrion Karstark,0,1,0,1,0
+341,Harwin,0,0,0,1,0.25
+343,Harys Haigh,1,0,0,1,0
+345,Helman Tallhart,1,1,1,1,0
+347,Heward,1,0,1,1,1.39
+349,Hobb,1,0,0,1,1.57
+351,Hod,1,1,0,1,0
+353,Holger,0,0,0,1,0.44
+355,Hop-Robin,0,0,0,1,0
+357,Horton Redfort,0,0,0,1,0
+359,Hoster Tully,0,1,1,1,0
+361,Hother Umber,1,1,0,1,0
+363,Hubard Rambton,0,0,1,1,0
+365,Hugo Vance,1,0,0,1,0
+367,Humfrey Swyft,1,0,0,1,0
+369,Hyle Hunt,1,1,1,1,0
+371,Illyrio Mopatis,0,1,0,1,0
+373,Imry Florent,1,1,1,1,0
+375,Irri,0,1,0,0,0.68
+377,Jacelyn Bywater,0,0,1,0,0
+379,Jack-Be-Lucky,0,0,0,1,0
+381,Jaggot,0,0,0,1,0
+383,Jalabhar Xho,1,1,0,1,0
+385,Janos Slynt,0,1,1,1,0
+387,Jared Frey,0,1,1,1,0
+389,Jarl,0,0,1,1,0.08
+391,Jason Mallister,0,1,0,1,0
+393,Jate Blackberry,0,0,0,1,0
+395,Jeren,0,0,0,1,0
+397,Jeyne Westerling,0,1,0,0,0
+399,Jhezane,0,0,0,0,0
+401,Jhogo,0,0,0,1,0.14
+403,Jodge,0,0,0,1,0
+405,Jommy,0,0,0,1,0
+407,Jon Connington,1,1,0,1,0
+409,Jon Snow,1,1,0,1,0
+411,Joffrey Baratheon,1,1,1,1,0
+413,Jonelle Cerwyn,1,1,0,0,0
+415,Jorah Mormont,0,1,0,1,0
+417,Joseran,0,0,0,1,0
+419,Josmyn Peckledon,0,0,0,1,0
+421,Joss Stilwood,1,0,0,1,0
+423,Jothos Slynt,0,1,0,1,0
+425,Justin Massey,1,0,0,1,0
+427,Jynessa Blackmont,0,0,0,0,0
+429,Kedge Whiteye,0,0,0,1,0
+431,Kennos of Kayce,1,1,0,1,0
+433,Kenned,0,0,1,1,0
+435,Kevan Lannister,0,1,1,1,0
+437,Khorane Sathmantes,0,0,0,1,0
+439,Kindly man,1,1,0,1,0
+441,Koss,0,0,1,1,0
+443,Kromm,0,0,1,1,0
+445,Kurz,0,0,1,1,0.22
+447,Kyra,0,0,1,0,0.98
+449,Lambert Turnberry,1,0,0,1,0
+451,Lancel Lannister,0,1,0,1,0
+453,Lark,0,1,1,1,0.13
+455,Larraq,0,0,0,1,0
+457,Left Hand Lew,0,1,0,1,0
+459,Lennocks,0,0,0,1,0
+461,Leo Lefford,1,1,1,1,0
+463,Leobald Tallhart,1,1,1,1,0
+465,Leonette Fossoway,0,0,0,0,0
+467,Lewis Lanster,0,0,0,1,0
+469,Lewys Piper,0,0,0,1,0
+471,Little Walder Frey,1,1,1,1,0
+473,Lommy,0,1,1,1,0.36
+475,Lorcas,0,0,0,1,0
+477,Lorent Caswell,1,1,0,1,0
+479,Lothar Frey,0,1,0,1,0
+481,Lucan,1,0,1,1,0
+483,Lucas Codd,0,0,0,1,0
+485,Luco Prestayn,0,0,0,1,0
+487,Luton,0,0,1,1,0.1
+489,Lyle Crakehall,1,0,0,1,0
+491,Lymond Goodbrook,1,0,0,1,0
+493,Lyn Corbray,0,1,0,1,0
+495,Lysa Tully,0,1,1,0,0
+497,Mace Tyrell,0,1,0,1,0
+499,Maege Mormont,0,1,0,0,0
+501,Maerie (Whore),0,0,1,0,0
+503,Mago,1,1,0,1,1
+505,Malliard,0,0,0,1,0
+507,Mance Rayder,1,1,0,1,0
+509,Maric Seaworth,0,1,1,1,0
+511,Margaery Tyrell,0,1,0,0,0
+513,Maris,1,0,0,0,0
+515,Mariya Darry,1,0,0,0,0
+517,Marlon Manderly,1,1,0,1,0
+519,Marq Piper,1,0,0,1,0
+521,Marwyn,0,0,0,1,0.11
+523,Masha Heddle,1,0,1,0,0
+525,Mathis Rowan,1,0,0,1,0
+527,Matrice,0,0,0,0,0
+529,Matthar,1,0,0,1,0.58
+531,Mebble,0,0,0,1,0
+533,Meera Reed,1,1,0,0,0
+535,Meha,0,0,0,0,0
+537,Meldred Merlyn,1,0,0,1,0
+539,Melisandre,0,1,0,0,0.43
+541,Melly,0,0,0,0,0.41
+543,Meribald,0,0,0,1,0.16
+545,Mero,1,1,1,1,0.42
+547,Meryn Trant,1,1,0,1,0
+549,Mikken,1,0,1,1,0.85
+551,Mirri Maz Duur,0,1,1,0,0
+553,Mohor,0,0,1,1,0.24
+555,Monford Velaryon,1,1,1,1,0
+557,Moon Boy,0,1,0,1,0
+559,Mord,0,1,0,1,0.48
+561,Moreo Tumitis,0,0,0,1,0
+563,Morna White Mask,1,1,0,0,0
+565,Morra,0,0,0,0,0
+567,Morros Slynt,0,1,0,1,0
+569,Mors Umber,1,1,0,1,0
+571,Mudge (miller),0,0,1,1,0
+573,Munciter,0,0,0,1,0
+575,Murch (Winterfell),0,0,0,1,0
+577,Murenmure,0,0,0,1,0.08
+579,Mya Stone,1,1,0,0,0
+581,Myles,0,0,0,1,0.34
+583,Myranda Royce,0,1,0,0,0
+585,Myria Jordayne,0,0,0,0,0
+587,Nage,1,0,0,1,0
+589,Nan,0,1,0,0,0.55
+591,Nestor Royce,0,1,0,1,0
+593,Norjen,0,0,0,1,0
+595,Notch,0,0,0,1,0
+597,Nymella Toland,0,0,0,0,0
+599,Obara Sand,0,1,0,0,0
+601,Ogo,0,1,1,1,0.18
+603,Olenna Redwyne,0,1,0,0,0
+605,Olyvar Frey,0,1,0,1,0
+607,Oppo,0,0,1,1,0.27
+609,Orphan Oss,1,1,1,1,0
+611,Osfryd Kettleblack,1,0,0,1,0
+613,Osmund Kettleblack,1,0,0,1,0
+615,Ossy,0,0,0,1,0
+617,Othell Yarwyck,1,1,0,1,0
+619,Owen,1,1,0,1,0.83
+621,Oznak zo Pahl,1,1,1,1,0
+623,Parmen Crane,0,1,0,1,0
+625,Pate (novice),0,0,1,1,0
+627,Pate (Night's Watch),0,0,0,1,0
+629,Patrek of King's Mountain,1,1,1,1,0
+631,Paxter Redwyne,1,1,0,1,0
+633,Penny,1,1,0,0,0.48
+635,Perwyn Frey,0,1,0,1,0
+637,Petyr Frey,0,1,1,1,0
+639,Pia,0,0,0,0,0.08
+641,Polliver,1,1,1,1,0.5
+643,Porridge,0,0,0,1,0.27
+645,Poul Pemford,0,0,1,1,0
+647,Praed,0,0,1,1,0
+649,Preston Greenfield,0,0,1,1,0
+651,Pycelle,1,1,1,1,0.3
+653,Pylos,1,0,0,1,0.7
+655,Qarl Shepherd,0,0,0,1,0
+657,Qezza,0,0,0,0,0
+659,Qotho,1,1,1,1,0.32
+661,Quaro,0,0,1,1,0
+663,Quent,0,0,0,1,0.94
+665,Quentyn Martell,1,1,1,1,0
+667,Qyburn,1,1,0,1,0.42
+669,Qyle,1,0,1,1,1.14
+671,Ragnor Pyke,0,1,0,1,0
+673,Rakharo,0,1,0,1,0.25
+675,Ralf Stonehouse,1,0,0,1,0
+677,Ramsay Snow,1,1,0,1,0
+679,Randyll Tarly,0,1,0,1,0
+681,Ravella Swann,0,0,0,0,0
+683,Raymun Darry,1,0,1,1,0
+685,Raynald Westerling,0,0,1,1,0
+687,Red Rolfe,1,1,1,1,0
+689,Renly Baratheon,1,1,1,1,0
+691,Reznak mo Reznak,1,1,0,1,0
+693,Rhogoro,0,0,0,1,0.21
+695,Richard Horpe,1,1,0,1,0
+697,Rickard Ryswell,1,1,0,1,0
+699,Rigney,0,0,0,1,0
+701,Robb Stark,0,1,1,1,0
+703,Robert Arryn,1,1,0,1,0
+705,Robin Flint,1,1,1,1,0
+707,Robin Ryger,1,1,0,1,0
+709,Rodrik Harlaw,1,1,0,1,0
+711,Roger Hogg,1,0,0,1,0
+713,Roland Crakehall (Lord),1,0,0,1,0
+715,Rolfe,0,0,0,1,0
+717,Rolfe the Dwarf,1,1,1,1,0
+719,Rolly Duckfield,0,0,0,1,0
+721,Romny Weaver,0,0,0,1,0
+723,Ronnel Harclay,0,0,0,1,0
+725,Roose Bolton,1,1,0,1,0
+727,Rorge,1,1,1,1,0.73
+729,Rowan,1,0,1,1,1.86
+731,Rusty Flowers,0,1,0,1,0
+733,Ryk,0,0,0,1,0.09
+735,Ryman Frey,0,1,1,1,0
+737,Ryon Allyrion,1,1,0,1,0
+739,Sallor,0,0,1,1,0.42
+741,Sandor Clegane,0,1,1,1,0
+743,Sansa Stark,0,1,0,0,0
+745,Sarra Frey,0,1,0,0,0
+747,Sawwood,0,0,0,1,0
+749,Selyse Florent,1,1,0,0,0
+751,Serra Frey,0,1,0,0,0
+753,Shae,0,1,1,0,0.44
+755,Shagwell,0,0,1,1,0.35
+757,Shireen Baratheon,1,1,0,0,0
+759,Shyra Errol,0,0,1,0,0
+761,Skahaz mo Kandaq,1,1,0,1,0
+763,Small Paul,1,1,1,1,0
+765,Sour Alyn,0,0,0,1,0
+767,Spotted Cat,1,1,0,1,0
+769,Squint,0,0,1,1,0.15
+771,Stalwart Shield,1,0,1,1,0
+773,Steffon Swyft,1,0,0,1,0
+775,Stiv,0,0,1,1,0.65
+777,Stonesnake,1,0,0,1,1.6
+779,Styr,0,1,1,1,0.59
+781,Sybell Spicer,0,0,0,0,0
+783,Sylva Santagar,1,0,0,0,0
+785,Symon Stripeback,0,0,0,1,0
+787,Symond Templeton,1,0,0,1,0
+789,Taena of Myr,0,1,0,0,0
+791,Tallad,0,0,0,1,0.27
+793,Tanton Fossoway,0,0,0,1,0
+795,Terrance Lynderly,0,0,0,1,0
+797,Theo Frey,1,1,0,1,0
+799,Theomore Lannister,0,1,0,1,0
+801,Thistle,0,0,1,0,0
+803,Thoros,0,1,0,1,0.75
+805,Three-Tooth,0,0,0,0,0
+807,Tim Tangletongue,1,1,0,1,0
+809,Timett,1,0,0,1,0.74
+811,Tion Frey,1,1,1,0,0
+813,Todder,1,0,0,1,1.02
+815,Tom of Sevenstreams,1,1,0,1,0
+817,Tormund,0,1,0,1,0.32
+819,Torrhen Karstark,0,1,1,1,0
+821,Tregar,1,0,1,1,0.44
+823,Tristifer Botley,1,0,0,1,0
+825,Tuffleberry,0,0,0,1,0
+827,Tumco Lho,1,0,0,1,0
+829,Tycho Nestoris,1,1,0,1,0
+831,Tymor,0,0,1,1,0
+833,Tyrion Lannister,0,1,0,1,0
+835,Tytos Blackwood,0,1,0,1,0
+837,Tytos Frey,0,1,1,1,0
+839,Ulf son of Umar,1,1,1,1,0
+841,Ulmer,0,0,0,1,0.46
+843,Umar,1,0,0,1,0.41
+845,Unella,0,1,0,1,0.52
+847,Urswyck,0,0,0,1,0.12
+849,Utt,0,1,1,1,0.17
+851,Varamyr,0,0,1,1,0.32
+853,Vargo Hoat,0,0,1,1,0
+855,Vayon Poole,0,1,1,1,0
+857,Viserys Targaryen,1,1,1,1,0
+859,Vyman,0,0,0,1,0.18
+861,Walda Rivers (daughter of Aemon),1,1,0,0,0
+863,Walder Rivers,1,1,0,1,0
+865,Walton,0,0,0,1,0.38
+867,Wat (sailor),1,1,0,1,0
+869,Watty,0,0,0,1,0
+871,Wayn (guard),1,0,0,1,0
+873,Weeper,0,0,0,1,0.24
+875,Wendel Manderly,1,1,1,1,0
+877,Werlag,0,0,1,1,0
+879,Whalen Frey,0,1,0,1,0
+881,Will,0,1,1,1,0
+883,Willam Wells,0,0,1,1,0
+885,William Mooton,0,1,0,1,0
+887,Willit,0,0,0,1,0
+889,Willum,0,0,0,1,0
+891,Wulfe,0,0,0,1,0.15
+893,Wyl (guard),0,0,1,1,0
+895,Wylis Manderly,1,1,0,1,0
+897,Wyman Manderly,1,1,0,1,0
+899,Wynton Stout,0,0,0,1,0
+901,Xhondo,0,0,0,1,0
+903,Yellow Dick,1,1,1,1,0
+905,Ygritte,0,1,1,0,0.59
+907,Yohn Royce,0,1,0,1,0
+909,Young Henly,0,0,1,1,0
+911,Zei,0,0,0,0,0
+913,Yurkhaz zo Yunzak,1,1,1,1,0
+915,Torwynd the Tame,1,1,1,1,0
