@@ -8,7 +8,7 @@ git clone https://gitlab.cs.unh.edu/cs953-spring-2020/common-group-data.git
 
 ## go to the working directory:
 
-cd submission_3
+cd GoT-Death-Predictions
 
 ## set permissions for the shell scripts
 
