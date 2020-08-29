@@ -2,7 +2,7 @@
 
 ## clone the repository using the following command:
 
-git clone https://gitlab.cs.unh.edu/cs953-spring-2020/team_3/submission_3.git
+git clone https://github.com/stavan93/GoT-Death-Predictions.git
 
 git clone https://gitlab.cs.unh.edu/cs953-spring-2020/common-group-data.git
 
